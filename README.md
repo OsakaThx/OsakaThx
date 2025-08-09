@@ -1,4 +1,3 @@
-## Hola, soy Joshua, aca una pequeña presentacion 👋
 
 <!-- Encabezado llamativo -->
 <h1 align="center">Hola 👋, soy <span style="color:#ff69b4;">Joshua Castillo Keith</span></h1>
@@ -52,4 +51,3 @@ Soy un apasionado por la tecnología y el desarrollo de software, con experienci
 
 <p align="center">💙 Gracias por visitar mi perfil 💙</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,discord,dotnet,docker,linux,nodejs,python,visualstudio)](https://skillicons.dev)

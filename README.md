@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Sobre mí
-Soy un apasionado por la tecnología y el desarrollo de software, con experiencia en distintas áreas como programación, redes y soporte técnico. Me encanta aprender cosas nuevas y enfrentar retos que me ayuden a crecer como profesional.
+Soy un apasionado Junior por la tecnología y el desarrollo de software, con experiencia en distintas áreas como programación, redes y soporte técnico. Me encanta aprender cosas nuevas y enfrentar retos que me ayuden a crecer como profesional.
 
 ---
 
